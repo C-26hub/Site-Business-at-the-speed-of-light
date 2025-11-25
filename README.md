@@ -1,73 +1,104 @@
-# React + TypeScript + Vite
+# 📚 Projeto: Apresentação do Livro Business at the Speed of Light
+> **Resumo rápido:** Uma plataforma web em página única, totalmente em inglês, para apresentar o conteúdo, as principais lições e a equipe responsável pela divulgação de um livro de Tecnologia e Business.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 📖 Sobre o Projeto 
+> Este projeto foi desenvolvido com o objetivo de criar um showcase digital profissional e organizado para a apresentação de um livro que aborda temas de Tecnologia e Business. A motivação principal foi transformar a apresentação tradicional em um recurso online estático, rico em conteúdo e acessível.
+Ele foi pensado para divulgar o material do livro e a análise do grupo de estudo para colegas, professores e interessados que precisam de uma referência concisa e visualmente agradável sobre as ideias centrais e a estrutura do conteúdo. O site é integralmente gerado em inglês para atender ao requisito do material original.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ⚙️ Funcionalidades
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ✅ Book Summary (Resumo do Livro) — Exibição de um resumo introdutório do livro (em inglês).
+- ✅Core Ideas and Takeaways (Lições Centrais) — Apresentação das ideias principais e dos 3 pontos mais valiosos para o desenvolvimento profissional dos apresentadores.
+- ✅ Chapter Breakdown (Capítulos Detalhados) — Seção dedicada a um resumo de 1 parágrafo para cada um dos 5 capítulos do livro.
+- ✅ Presentation Team (Equipe) — Lista e perfis (nome e cargo fictício) dos 5 participantes da apresentação.
+- ✅ Design Responsivo — Layout otimizado para visualização em dispositivos móveis, tablets e desktops.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## 🧩 Tecnologias Utilizadas
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+- **Linguagem principal:** HTML, CSS, JavaScript, TypeScript.
+- **Bibliotecas / Frameworks:** React, Tailwind.
+- **Banco de Dados (se houver):** N/A
+- **Outros:** APIs (feito no VS code)
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+---
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## 🚀 Como Executar o Projeto
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+1. **Clone este repositório:**
+   ```bash
+   git clone https://github.com/[seu-usuario]/[nome-do-repositorio].git
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+2. **Acesse a pasta do projeto:**
+   ```bash
+   cd [nome-do-repositorio]
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+3. **Instale as dependências:**
+   ```bash
+   [comando de instalação — ex: pip install -r requirements.txt]
+
+4. **Execute o projeto:**
+   ```bash
+   [comando para rodar o projeto — ex: python main.py]
+
+## 🗂️ Organização do Repositório
+
+📁 Site-Business-at-the-speed-of-light/       
+│
+├── 📁 public/
+│   └── 📄 vite.svg   
+├── 📁 src/   
+│   ├── 📁 assets/
+│   │   ├── 📄 bill-gates.png
+│   │   └── 📄 book-cover.jpg
+│   ├── 📁 components/
+│   │   ├── 📁 ui
+│   │   │   ├── 📄 button.tsx
+│   │   │   ├── 📄 sonner.tsx
+│   │   │   ├── 📄 toast.tsx
+│   │   │   ├── 📄 toaster.tsx
+│   │   │   └── 📄 tooltip.tsx
+│   │   ├── 📄 Chapters.tsx
+│   │   ├── 📄 Coreldeas.tsx
+│   │   ├── 📄 Footer.tsx
+│   │   ├── 📄 Hero.tsx
+│   │   ├── 📄 Navigation.tsx
+│   │   ├── 📄 Sumary.tsx
+│   │   └── 📄 Team.tsx
+│   ├── 📁 hooks/
+│   │   └── 📄 use-toast.ts
+│   ├── 📁 lib/
+│   │   └── 📄 utils.ts
+│   ├── 📁 pages/
+│   │   ├── 📄 Index.tsx
+│   │   └── 📄 NotFound.tsx
+│   ├── App.css
+│   ├── App.tsx
+│   ├── index.css
+│   └── main.tsx 
+├── 📄 .gitgnore  
+├── 📄 README.md   
+├── 📄 eslint.config.js  
+├── 📄 index.html  
+├── 📄 package-lock.json   
+├── 📄 package.json
+├── 📄 postcss.config.js  
+├── 📄 tailwind.config.ts   
+├── 📄 tsconfig.app.json
+├── 📄 tsconfig.json  
+├── 📄 tsconfig.node.json   
+└── 📄 vite.config.ts
+
+## 👥 Equipe
+- **Arthur Filipe Rodrigues** – arthur.filipe2402@gmail.com
+- **Filipe Xavier dos Santos** – xfilipe2006.santos@gmail.com  
+- **Maria Cecília de Lima e Silva** – cecilmari33@gmail.com  
+- **Maria Eduarda Pereira Vilarim** – vilarim051@gmail.com
+- **Matheus Alves de Arruda** – matheusalves2906@gmail.com
+
+   
