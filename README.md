@@ -46,6 +46,9 @@ Ele foi pensado para divulgar o material do livro e a análise do grupo de estud
    ```bash
    npm run dev
 
+5. **Abra o navegador e cole o endereço do localhost na barra de pesquisa.**
+
+
 ## 🗂️ Organização do Repositório
 
 📁 Site-Business-at-the-speed-of-light/       
