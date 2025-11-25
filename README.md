@@ -86,10 +86,10 @@ Ele foi pensado para divulgar o material do livro e a análise do grupo de estud
 ├── 📄 eslint.config.js  
 ├── 📄 index.html  
 ├── 📄 package-lock.json   
-├── 📄 package.json
+├── 📄 package.json  
 ├── 📄 postcss.config.js  
 ├── 📄 tailwind.config.ts   
-├── 📄 tsconfig.app.json
+├── 📄 tsconfig.app.json  
 ├── 📄 tsconfig.json  
 ├── 📄 tsconfig.node.json   
 └── 📄 vite.config.ts
