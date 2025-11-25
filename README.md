@@ -50,37 +50,37 @@ Ele foi pensado para divulgar o material do livro e a análise do grupo de estud
 
 📁 Site-Business-at-the-speed-of-light/       
 │
-├── 📁 public/
+├── 📁 public/  
 │   └── 📄 vite.svg   
 ├── 📁 src/   
-│   ├── 📁 assets/
-│   │   ├── 📄 bill-gates.png
-│   │   └── 📄 book-cover.jpg
-│   ├── 📁 components/
-│   │   ├── 📁 ui
-│   │   │   ├── 📄 button.tsx
-│   │   │   ├── 📄 sonner.tsx
-│   │   │   ├── 📄 toast.tsx
-│   │   │   ├── 📄 toaster.tsx
-│   │   │   └── 📄 tooltip.tsx
-│   │   ├── 📄 Chapters.tsx
-│   │   ├── 📄 Coreldeas.tsx
-│   │   ├── 📄 Footer.tsx
-│   │   ├── 📄 Hero.tsx
-│   │   ├── 📄 Navigation.tsx
-│   │   ├── 📄 Sumary.tsx
-│   │   └── 📄 Team.tsx
-│   ├── 📁 hooks/
-│   │   └── 📄 use-toast.ts
-│   ├── 📁 lib/
-│   │   └── 📄 utils.ts
-│   ├── 📁 pages/
-│   │   ├── 📄 Index.tsx
-│   │   └── 📄 NotFound.tsx
-│   ├── App.css
-│   ├── App.tsx
-│   ├── index.css
-│   └── main.tsx 
+│   ├── 📁 assets/  
+│   │   ├── 📄 bill-gates.png  
+│   │   └── 📄 book-cover.jpg  
+│   ├── 📁 components/  
+│   │   ├── 📁 ui  
+│   │   │   ├── 📄 button.tsx  
+│   │   │   ├── 📄 sonner.tsx  
+│   │   │   ├── 📄 toast.tsx  
+│   │   │   ├── 📄 toaster.tsx  
+│   │   │   └── 📄 tooltip.tsx  
+│   │   ├── 📄 Chapters.tsx  
+│   │   ├── 📄 Coreldeas.tsx  
+│   │   ├── 📄 Footer.tsx  
+│   │   ├── 📄 Hero.tsx  
+│   │   ├── 📄 Navigation.tsx  
+│   │   ├── 📄 Sumary.tsx  
+│   │   └── 📄 Team.tsx  
+│   ├── 📁 hooks/  
+│   │   └── 📄 use-toast.ts  
+│   ├── 📁 lib/  
+│   │   └── 📄 utils.ts  
+│   ├── 📁 pages/  
+│   │   ├── 📄 Index.tsx  
+│   │   └── 📄 NotFound.tsx  
+│   ├── App.css  
+│   ├── App.tsx  
+│   ├── index.css  
+│   └── main.tsx  
 ├── 📄 .gitgnore  
 ├── 📄 README.md   
 ├── 📄 eslint.config.js  
