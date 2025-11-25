@@ -32,19 +32,19 @@ Ele foi pensado para divulgar o material do livro e a análise do grupo de estud
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com/[seu-usuario]/[nome-do-repositorio].git
+   git clone https://github.com/C-26hub/Site-Business-at-the-speed-of-light.git
 
 2. **Acesse a pasta do projeto:**
    ```bash
-   cd [nome-do-repositorio]
+   cd Site-Business-at-the-speed-of-light
 
 3. **Instale as dependências:**
    ```bash
-   [comando de instalação — ex: pip install -r requirements.txt]
+   npm install
 
 4. **Execute o projeto:**
    ```bash
-   [comando para rodar o projeto — ex: python main.py]
+   npm run dev
 
 ## 🗂️ Organização do Repositório
 
