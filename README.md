@@ -24,7 +24,6 @@ Ele foi pensado para divulgar o material do livro e a análise do grupo de estud
 - **Linguagem principal:** HTML, CSS, JavaScript, TypeScript.
 - **Bibliotecas / Frameworks:** React, Tailwind.
 - **Banco de Dados (se houver):** N/A
-- **Outros:** APIs (feito no VS code)
 
 ---
 
