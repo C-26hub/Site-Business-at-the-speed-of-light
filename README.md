@@ -50,6 +50,7 @@ Ele foi pensado para divulgar o material do livro e a análise do grupo de estud
 
 ## 🗂️ Organização do Repositório
 
+```
 📁 Site-Business-at-the-speed-of-light/       
 │
 ├── 📁 public/  
@@ -95,6 +96,7 @@ Ele foi pensado para divulgar o material do livro e a análise do grupo de estud
 ├── 📄 tsconfig.json  
 ├── 📄 tsconfig.node.json   
 └── 📄 vite.config.ts
+```
 
 ## 👥 Equipe
 - **Arthur Filipe Rodrigues** – arthur.filipe2402@gmail.com
