@@ -99,10 +99,8 @@ Ele foi pensado para divulgar o material do livro e a análise do grupo de estud
 ```
 
 ## 👥 Equipe
-- **Arthur Filipe Rodrigues** – arthur.filipe2402@gmail.com
+- **Arthur Filipe Rodrigues da Silva** – arthur.filipe2402@gmail.com
 - **Filipe Xavier dos Santos** – xfilipe2006.santos@gmail.com  
 - **Maria Cecília de Lima e Silva** – cecilmari33@gmail.com  
 - **Maria Eduarda Pereira Vilarim** – vilarim051@gmail.com
 - **Matheus Alves de Arruda** – matheusalves2906@gmail.com
-
-   
